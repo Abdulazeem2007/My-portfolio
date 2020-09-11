@@ -1,0 +1,35 @@
+h1{
+    color:aqua
+}
+
+    
+.Bio{
+    background-color: coral;
+     
+    display:flex;
+
+    justify-content: space-evenly;
+
+}
+.Games{
+    color: cyan;
+    background-color: coral;
+    
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.Socialmedia{
+   display: flex;
+   justify-content: space-evenly;
+
+   background-color: coral;
+
+}
+p,h2{
+    
+    text-align:center;
+    color: aqua;
+    
+
+}
